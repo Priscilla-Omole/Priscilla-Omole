@@ -1,12 +1,12 @@
 # Hi there 👋
 
 
-I'm Priscilla, a software engineer passionate about building AI-led products.   
+I'm Priscilla, an AI engineer passionate about building and evolving   
 🕯️ Studying AI and Robotics at the University of Hertfordshire.
 
 🔭 Skills: Java, Python.
 
-🌱 Learning AI development
+🌱 I am currently building.
 
 
 <!--
