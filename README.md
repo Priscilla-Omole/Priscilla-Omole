@@ -2,8 +2,10 @@
 
 
 I'm Priscilla, a software engineer passionate about building AI-led products.   
-🕯️ Studying AI and Robotics at the University of Hertfordshire
-🔭 Skills: Java, Python
+🕯️ Studying AI and Robotics at the University of Hertfordshire.
+
+🔭 Skills: Java, Python.
+
 🌱 Learning AI development
 
 
